@@ -1,0 +1,8 @@
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\bin\Debug\Homework5.exe.config
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\bin\Debug\Homework5.exe
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\bin\Debug\Homework5.pdb
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\obj\Debug\Homework5.csproj.AssemblyReference.cache
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\obj\Debug\Homework5.csproj.SuggestedBindingRedirects.cache
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\obj\Debug\Homework5.exe
+C:\Users\48518\OneDrive\Pulpit\Azure\AppOne\Homework5\obj\Debug\Homework5.pdb
